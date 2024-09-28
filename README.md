@@ -10,7 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gourabofficial&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=react&hide_border=false&hide_progress=true%22%20height=%22150%22%20alt=%22languages%20graph" height="150" alt="languages graph"/>
 </div> -->
 
-<br> <!-- Adds space before the activity graph -->
+  <!-- Adds space before the activity graph -->
 
 <!-- Activity graph section -->
 <div align="center">
